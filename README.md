@@ -45,3 +45,7 @@
 ```bash
 npm install @szhelin/vlibs
 ```
+
+## 🌐 在线预览
+
+[点击查看组件文档与示例 >>](https://szhelin.github.io/vlibs/)
