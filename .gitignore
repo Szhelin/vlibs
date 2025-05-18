@@ -1,0 +1,11 @@
+# 忽略 node_modules
+node_modules/
+
+# 忽略打包输出目录
+dist/
+
+# 可选其他常见忽略项
+.DS_Store
+.env
+.idea/
+*.log
