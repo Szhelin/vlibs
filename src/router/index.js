@@ -83,7 +83,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHashHistory("/vLibs/"),
+  history: createWebHashHistory("/vlibs/"),
   routes,
 });
 

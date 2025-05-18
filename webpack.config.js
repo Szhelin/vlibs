@@ -11,7 +11,7 @@ module.exports = (env = {}) => {
     output: {
       path: path.resolve(__dirname, "dist"),
       filename: isLibBuild ? "index.js" : "bundle.js",
-      publicPath: "/vLibs/",
+      publicPath: "/vlibs/",
       library: isLibBuild
         ? {
             type: "umd",
